@@ -78,7 +78,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #826262;
+  background-color: var(--OVERLAY-COLOR);
   mix-blend-mode: overlay;
 }
 
